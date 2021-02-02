@@ -5,7 +5,7 @@
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
 
-<h3 align="center">A passionate Baclend developer from Bangladesh</h3>
+<h3 align="center">A passionate Backend developer from Bangladesh</h3>
 
 - 🌱 I’m currently learning Python **Django**
 
