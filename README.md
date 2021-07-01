@@ -10,6 +10,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 - 🌱 I’m currently learning Python **Django**
 - 🌟 Microsoft Learn Student Ambassador
 - 🔭 Open Source Enthusiastic
+- 👨🏻‍💻 Web App Developer
 - 📫 How to reach me **Parvejbinrostom@gmail.com**
 
 
