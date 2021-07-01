@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Parvej
 #### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am GitHub Readme Generator's creator](https://github.com/Parvej240/IMAGE.git)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
@@ -11,7 +11,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 - 📫 How to reach me **Parvejbinrostom@gmail.com**
 
-<img src="https://camo.githubusercontent.com/api?username=parvej240">
+<img src="https://github.com/Parvej240/IMAGE.git/api?username=parvej240">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mdparve01177266" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mdparve01177266" height="30" width="40" /></a>
