@@ -1,6 +1,4 @@
 <a href="https://Parvej240.github.io/IMAGE/"><img src="https://github.com/Parvej240/hello/blob/main/css-animation-indoors-or-outdoors.gif"/></a>
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Parvej240)  
-
 ![Profile views](https://gpvc.arturio.dev/Parvej240)  
 
 
