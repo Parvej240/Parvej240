@@ -10,6 +10,8 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 - 🌱 I’m currently learning Python **Django**
 
 - 📫 How to reach me **Parvejbinrostom@gmail.com**
+
+
 ## MY GIT STATS
 <img src="https://github-readme-stats.vercel.app/api?username=Parvej240&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=Parvej240&theme=radical"/>|
 
