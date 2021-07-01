@@ -1,6 +1,5 @@
-### Hi there 👋, my name is Parvej
 <a href="https://Parvej240.github.io/IMAGE/"><img src="https://github.com/Parvej240/hello/blob/main/css-animation-indoors-or-outdoors.gif"/></a>
-![I am GitHub Readme Generator's creator](https://github.com/Parvej240/IMAGE.git)
+
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
