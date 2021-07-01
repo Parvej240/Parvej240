@@ -11,7 +11,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 - 📫 How to reach me **Parvejbinrostom@gmail.com**
 
-<img src="https://github.com/Parvej240/IMAGE.git/api?username=parvej240">
+<img src="https://github-readme-stats.vercel.app/api?username=Parvej240&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=Parvej240&theme=radical"/>|
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mdparve01177266" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mdparve01177266" height="30" width="40" /></a>
