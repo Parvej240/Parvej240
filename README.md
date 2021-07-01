@@ -1,5 +1,5 @@
 <a href="https://Parvej240.github.io/IMAGE/"><img src="https://github.com/Parvej240/hello/blob/main/css-animation-indoors-or-outdoors.gif"/></a>
-![Profile views](https://gpvc.arturio.dev/Parvej240)<a href="https://github.com/Parvej240/myresume"><img src="https://github.com/Parvej240/myresume.git"/></a>  
+![Profile views](https://gpvc.arturio.dev/Parvej240)[![Linkedin Badge](https://img.shields.io/badge/-dhanrajdc7-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhanrajdc7/)](https://www.linkedin.com/in/PARVEJ PARVEJ/)  
 
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
