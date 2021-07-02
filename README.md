@@ -28,7 +28,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/uczctbxfaaiu9sm6ooku6wcw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/uczctbxfaaiu9sm6ooku6wcw" height="30" width="40" /></a>
 
  <br>
-  <p align="center">
+<p align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parvej240&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 <h3 align="left">Languages and Tools:</h3>
