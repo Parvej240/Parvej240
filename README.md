@@ -21,7 +21,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 <p align="center">
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Parvej240&show_icons=true&theme=radical">
-  <img align="center" hspace="10" vspace="10" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahidnfr123&&layout=compact&show_icons=true&theme=radical" />
+  <img align="center" hspace="10" vspace="10" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parvej240&&layout=compact&show_icons=true&theme=radical" />
 </a>
 </p>
 
