@@ -27,9 +27,9 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100008653991845" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/profile.php?id=100008653991845" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/uczctbxfaaiu9sm6ooku6wcw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/uczctbxfaaiu9sm6ooku6wcw" height="30" width="40" /></a>
 
-<a align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parvej240&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  </a>
+[comment]: <> ([![Top Langs]&#50;https://github-readme-stats.vercel.app/api/top-langs/?username=Parvej240&show_icons=true&theme=radical&#41;]&#50;https://github.com/anuraghazra/github-readme-stats&#41;)
+  
+  
 <table align="center" Background color:green>
   <tr>
     <th>Tools : </th>
