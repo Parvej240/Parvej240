@@ -19,6 +19,11 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 <img src="https://github-readme-stats.vercel.app/api?username=Parvej240&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=Parvej240&theme=radical"/>|
 |---|---|
 
+<p align="center">
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Parvej240&show_icons=true&theme=radical">
+  <img align="center" hspace="10" vspace="10" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahidnfr123&&layout=compact&show_icons=true&theme=radical" />
+</a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
